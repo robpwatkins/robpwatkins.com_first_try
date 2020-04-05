@@ -1,4 +1,6 @@
 .App {
+  /* width: 100vh; */
+  height: 100vh;
   text-align: center;
   background-color: #282c34;
   min-height: 100vh;
@@ -11,8 +13,8 @@
 }
 
 .container {
-  height: 100vh;
-  width: 100vh;
+  height: 100%;
+  width: 100%;
   background-image: url(./img/BackgroundFirstTry.JPG);
   background-size: cover;
 }
@@ -20,5 +22,10 @@
 .overlay {
   height: 100%;
   width: 100%;
-  background-color: #25293496;
+  /* background-color: #25293400; */
 }
+
+/* .nameBox {
+  font-size: 150px;
+  text-shadow: 2px 2px #2196f3;
+} */
