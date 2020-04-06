@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Winston",
+    "Breed": "Schnauzer",
+    "Hometown": "Austin, TX"
+  },
+  {
+    "Name": "Minnie",
+    "Breed": "Dachshund",
+    "Hometown": "Abilene, TX"
+  },
+  {
+    "Name": "Max",
+    "Breed": "Golden Retreiver",
+    "Hometown": "Carrollton, TX"
+  }
+
+]
