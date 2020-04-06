@@ -1,0 +1,21 @@
+[
+  {
+    "thing": "stapler",
+    "name": "swingline",
+    "description": "The old workhorse.",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/61qkoldpK%2BL._AC_SX466_.jpg"
+  },
+  {
+    "thing": "boothat",
+    "name": "boothat",
+    "description": "That's all you need to know, bub.",
+    "imgUrl": "http://www.clker.com/cliparts/x/B/z/g/N/D/cowboy-hat-and-boot-md.png"
+  },
+  {
+    "thing": "pupper being thrown",
+    "name": "pupper",
+    "description": "This pups all like 'whaaaaaa?!'",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAGK6VPRtYMlIwbpyz6Pg-NsIVdpYG888jABeVLjk_MFVc6jpt&usqp=CAU"
+  }
+
+]
