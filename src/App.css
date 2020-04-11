@@ -20,9 +20,9 @@
 }
 
 .overlay {
-  height: 100%;
   width: 100%;
-  /* background-color: #25293400; */
+  height: 100%;
+  background: #25293496;
 }
 
 /* .nameBox {

@@ -7,10 +7,6 @@ function Homepage() {
   return(
     <div className="container">
       <div className="overlay">
-        <Header />
-        <Grid container justify="center">
-          <NameCard />
-        </Grid>
       </div>
     </div>
   )
